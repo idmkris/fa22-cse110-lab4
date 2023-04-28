@@ -1,0 +1,1 @@
+1. .value return a string which convert the input num1 and num2 into a string. Therefore, result would be the combination of the two strings
