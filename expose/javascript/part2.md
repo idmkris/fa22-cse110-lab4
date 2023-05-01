@@ -6,8 +6,8 @@
 6. discountedPrice only exist in the for loop block so it will cause an error
 7. it will print 150 as it was the last discounted price calculated
 8. it will return [50, 100, 150]
-9. it will print 2 as 2 < length
-10. it will print 3 as length = prices.length
+9. it will cause an error as line 8 is changing a constant variable
+10. it will cause an error as line 8 is changing a constant variable
 11. it will return [] as discounted is a constant
 12. student.name
     student['Grad Year']
